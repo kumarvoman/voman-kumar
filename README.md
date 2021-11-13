@@ -10,4 +10,8 @@ Skills: C++/ C#/ JNI / MVC/ JS / HTML / CSS
 - 💬 Ask me about Anything 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/voman-kumar/) 
 - 😄 Pronouns: He | Him  
-- ⚡ Fun fact: I can eat a whole Large Pizza :P 
+- ⚡ Fun fact: I can eat a whole Large Pizza 
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/voman-kumar)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/voman-kumar)  
